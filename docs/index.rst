@@ -6,7 +6,7 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. toctree:: gjango_cityloc_pkg_tjcline325
+.. toctree:: django_cityloc_pkg_tjcline325
    :maxdepth: 2
    :caption: Contents:
 
